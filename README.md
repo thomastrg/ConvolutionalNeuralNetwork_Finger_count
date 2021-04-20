@@ -6,9 +6,6 @@ Build a Convolutional Neural Network (CNN) model to classify the finger counting
 
 
 
-# Implementing a CNN for finger counting 
-Build a Convolutional Neural Network (CNN) model to classify the finger counting. 
-
 ## The dataset
 The chosen dataset is composed of pictures of hands describing a number. The goal of this CNN is to count the number of fingers that we can count thanks to image recognition. All the images are 64 by 64 pixels.
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F5299578%2F7b415cbfd942b3feb3d8b7e16d96d11f%2FSIGNS.png?generation=1602653063304686&alt=media)
