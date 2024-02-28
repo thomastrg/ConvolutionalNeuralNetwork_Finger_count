@@ -2,7 +2,7 @@
 Convolutional Neural Network (CNN) being computationally strong has the ability to automatically detect the important features without the governance of humans. Also compared to normal neural networks accuracy of CNN models are always high and is considered to be one of the strong architectures when it comes to image classification. CNN models are now capable of doing classification better than humans; it has surpassed human ability for classifying an image.
 
 # Implementing a CNN for finger counting 
-Build a Convolutional Neural Network (CNN) model to classify the finger counting. 
+Build a Convolutional Neural Network (CNN) model to classify the finger counting.  
 
 
 
